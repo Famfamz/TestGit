@@ -5,3 +5,7 @@ function test(){
 function CommitForDevBranch(){
     console.log("This is Dev Branch");
 }
+
+function ForFarm(){
+    console.log("For farm developer");
+}
